@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Twitter hack: Joseph O'Connor jailed for celebrity cyber attack",
+        "description": "Joseph O'Connor, 24, targeted some of the most popular accounts as part of a Bitcoin scam.",
+        "url": "http://www.bbc.co.uk/news/uk-england-merseyside-66007724",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14CD/production/_129652350_mediaitem129652349.jpg",
+        "publishedAt": "2023-06-25T07:22:17.3853952Z",
+        "content": "A British man who hacked high profile Twitter accounts as part of a Bitcoin scam has been jailed in the US.\r\nJoseph O'Connor, from Liverpool, hijacked more than 130 accounts in July 2020, including t… [+2097 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Greek conservatives eye Mitsotakis majority in fresh election",
+        "description": "Greece holds its second election in a month and Prime Minister Mitsotakis is hoping for a convincing win.",
+        "url": "http://www.bbc.co.uk/news/world-europe-65997486",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/812D/production/_130196033_dc5bc9dea26cabf72f5fbf001ec25d7965b579af6_677_2587_14551000x563.jpg",
+        "publishedAt": "2023-06-25T01:37:13.2461643Z",
+        "content": "Greeks vote for the second time in a month on Sunday with conservative ex-Prime Minister Kyriakos Mitsotakis hoping to secure a big majority.\r\nHe convincingly beat his centre-left rival in May but ca… [+4509 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Russia: Wagner chief Yevgeny Prigozhin to leave Russia and charges dropped - state media",
+        "description": "Fighters from the Russian mercenary group have begun to leave Rostov-on-Don where their mutiny began less than 24 hours ago.",
+        "url": "http://www.bbc.co.uk/news/live/world-europe-66006142",
+        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+        "publishedAt": "2023-06-24T23:37:17.7174767Z",
+        "content": "Yevgeny Prigozhin may have stepped back from the brink, but\r\nevents of the last 24 hours will have fundamentally altered his relationship\r\nwith Russias president.\r\nOnce called 'Putins chef' because o… [+1410 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Why 101 people and a dog want to be Toronto's mayor",
+        "description": "North America's fourth-largest city has a historic number of candidates in its upcoming by-election.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-65935829",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7536/production/_130160003_horizontalcityhall-edit.jpg",
+        "publishedAt": "2023-06-24T23:22:13.9647366Z",
+        "content": "Toronto will soon decide who will be its next mayor, after revelations of an extramarital affair pushed the city's long-time leader out of office. There is no shortage of candidates to choose from - … [+6288 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Myanmar Insein: A rare glimpse inside a barbaric prison",
+        "description": "The BBC speaks to prisoners, including an artist whose smuggled sketches record horror inside Myanmar's Insein jail.",
+        "url": "http://www.bbc.co.uk/news/world-asia-65959508",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1AFA/production/_130160960_promo_976x549_b.png",
+        "publishedAt": "2023-06-24T23:07:16.1062163Z",
+        "content": "Phyo Wai Hlaing, a 21-year-old wi-fi technician, had been missing for a week in July 2021 when his father received an anonymous phone call telling him to go to a bridge far from his neighbourhood in … [+8672 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Watch: The day Wagner chief went rogue... in 96 seconds",
+        "description": "The boss of Russia's Wagner group says he has agreed to \"stop\" the advancement of his troops towards Moscow.",
+        "url": "http://www.bbc.co.uk/news/world-europe-66007609",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/350B/production/_130197531_p0fx4n1v.jpg",
+        "publishedAt": "2023-06-24T20:52:17.5996048Z",
+        "content": "The boss of Russia's Wagner group has said on his Telegram channel that he has agreed to \"stop\" the advancement of his troops towards Moscow.\r\nIn a surprise move, Yevgeny Prigozhin said his fighters … [+300 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Watch: Saturday at Glastonbury... so far",
+        "description": "Lizzo, Lewis Capaldi and Rick Astley have all taken to the stage at Worthy Farm.",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-66010996",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA3B/production/_130197534_p0fx4v09.jpg",
+        "publishedAt": "2023-06-24T20:37:14.358525Z",
+        "content": "Lizzo, Lewis Capaldi and Rick Astley are among the acts to have taken the stage on Saturday at Glastonbury 2023.\r\nVideo by Alex Smith"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Polar Prince: Support ship docks at Canadian harbour as rescue operations wind down",
+        "description": "Canadian investigators in Newfoundland are examining the main support ship after sub's implosion.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66008843",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7AED/production/_130196413_polarprince.jpg",
+        "publishedAt": "2023-06-24T14:07:17.3828864Z",
+        "content": "The Polar Prince has returned to shore in Canada where it faces an investigation into its role in the catastrophic implosion of the Titan submersible.\r\nFlags on board the vessel were at half-mast as … [+233 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "In losing Titan, St John's mulls a familiar tragedy",
+        "description": "\"Joy and sorrow were always communal rights in small maritime communities\" like the Canadian city.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66004908",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D45/production/_130192037_larrydaley.jpg",
+        "publishedAt": "2023-06-24T11:22:20.725841Z",
+        "content": "In the park by the harbour in St John's, visitors sit quietly on benches, watching as the boats that went out to search for the Titan submersible make a slow procession home. \r\nIt's not the joyous sc… [+4244 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Mike Pence challenges rivals to back 15-week abortion ban",
+        "description": "The ex-vice-president calls on Republicans to support a 15-week ban as a \"minimum nationwide standard\".",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66003915",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/172D1/production/_130192949_dda5c59aaf7539ae2826465da40e3aa2e7f456f30_0_2656_14951000x563.jpg",
+        "publishedAt": "2023-06-24T00:07:18.1785351Z",
+        "content": "Former US Vice-President Mike Pence has challenged his rivals in the Republican presidential field to support a 15-week national abortion ban.\r\nHe told a conservative gathering every Republican candi… [+3180 chars]"
+      }
+    ]
+  }
